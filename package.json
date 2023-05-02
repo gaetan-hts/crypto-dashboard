@@ -2,7 +2,7 @@
   "name": "crypto-react",
   "version": "0.1.0",
   "private": false,
-  "homepage": ".",
+  "homepage": "/crypto-dashboard",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.1",
